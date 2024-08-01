@@ -1378,6 +1378,21 @@ CCTV9,http://125.43.40.173:9999/rtp/225.1.4.77:1106
 淳安电视频道,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 淳安电视频道,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
 
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视,http://110.7.129.246:8096/tsfile/live/0124_1.m3u8
+浙江卫视,http://118.144.105.55:91/live/ZJWShd-5M/live.m3u8
+浙江卫视,http://118.144.105.55:91/live/ZJWS-1500k/live.m3u8
+浙江卫视,http://111.225.115.28:808/tsfile/live/1011_1.m3u8
+浙江卫视,http://112.25.48.68/live/program/live/zjwshd/4000000/mnf.m3u8
+浙江生活,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8
+浙江卫视,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
+浙江卫视 (576p),http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8
+浙江卫视 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
+浙江卫视 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视 (1080p),http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+浙江卫视 (1080p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+浙江卫视 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 
 杭州导视,http://live.cooltv.top/tv/hz.php?id=22
 杭州影视,http://live.cooltv.top/tv/hz.php?id=21
