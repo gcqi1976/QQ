@@ -27,12 +27,13 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://m3u.ibert.me/txt/fmml_dv6.txt",
-    "https://m3u.ibert.me/txt/o_cn.txt",
-    "https://m3u.ibert.me/txt/j_iptv.txt",
+    "http://mdxgh.tpddns.cn:9999/new/mdlive.txt",
+    "http://101.200.122.188/dglive.txt",
+  
 ]
 open_multicast = True
 region_list = ["all"]
 open_proxy = True
 open_driver = False
 open_use_old_result = True
+
