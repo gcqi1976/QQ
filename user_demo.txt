@@ -1,4 +1,4 @@
-中央视频道,#流派#
+中央视频道,#genre#
 CCTV1,http://101.200.122.188/tv/migu.php?id=cctv1$咪咕
 CCTV2,http://101.200.122.188/tv/migu.php?id=cctv2$咪咕
 CCTV3,http://101.200.122.188/tv/migu.php?id=cctv3$咪咕
