@@ -527,7 +527,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 浙江卫视 (1080p),https://hw-ml.cztv.com/channels/lantian/channel08/1080p.m3u8
 
 
-🎬 | 影视,#类型#
+🎬 | 影视,#genre#
 铁齿铜牙纪晓岚,http://q873658g36.vicp.fun:22222/yy.php?id=1354143978
 情满四合院,http://q873658g36.vicp.fun:22222/yy.php?id=1382735541
 狂飙,http://q873658g36.vicp.fun:22222/yy.php?id=1355142167
