@@ -161,6 +161,14 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 🔫｜浙江,#genre#
+杭州综合,https://live.hoolo.tv/hztv1/sd/live.m3u8?auth_key=1723110005-0-0-a0716d5a237f0a94576992e68e410fe1
+杭州明珠,https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1723111009-0-0-058ebf83138e3c4de461aa5de7d808c9
+杭州生活,https://live.hoolo.tv/hztv3/sd/live.m3u8?auth_key=1723111093-0-0-b2aa79505bb85e03626dd2a4dc2cf907
+杭州影视,https://live3.hoolo.tv/hztv4/sd/live.m3u8?auth_key=1723111124-0-0-8be40e91f97918366391e45c962303f1
+杭州青少,https://live3.hoolo.tv/hztv5/sd/live.m3u8?auth_key=1723111145-0-0-2cb2eb2ea966c89bc685a4e55e16a677
+杭州导视,https://live3.hoolo.tv/hztv6/sd/live.m3u8?auth_key=1723111162-0-0-9af4424396c8a45a4d7c8215131ce43a
+
+
 杭州综合,https://live.hoolo.tv/hztv1/sd/live.m3u8?auth_key=1722752645-0-0-ef39d819d018788b0592dc519b7b2e5c
 杭州明珠,https://live.hoolo.tv/hztv2/sd/live.m3u8?auth_key=1722752697-0-0-fd9e7c1024b4f78598b2e1477d14330d
 杭州生活,https://live.hoolo.tv/hztv3/sd/live.m3u8?auth_key=1722752983-0-0-a7d2e0dc1eb9e84cf39cefcdd7f6f130
