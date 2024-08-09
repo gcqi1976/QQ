@@ -15,6 +15,13 @@ favorite_list = [
     "湖南卫视",
     "翡翠台",
 ]
+    version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+    successlist_tv = ["更新时间,#genre#"] +[version] + ['\n'] +\
+                  ["whitelist,#genre#"] + remove_prefix_from_lines(successlist)
+    successlist = ["更新时间,#genre#"] +[version] + ['\n'] +\
+                  ["RespoTime,whitelist,#genre#"] + successlist
+    blacklist = ["更新时间,#genre#"] +[version] + ['\n'] +\
+                ["blacklist,#genre#"]  + blacklist
 open_online_search = True
 favorite_page_num = 5
 default_page_num = 3
