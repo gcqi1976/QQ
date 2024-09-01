@@ -1,5 +1,5 @@
 
-央视频道,#genre#,http://epg.hackserver.net/epg.php
+央视频道,#genre#
 
 
 CCTV1,http://101.200.122.188/tv/migu085.php?id=cctv1$咪咕
