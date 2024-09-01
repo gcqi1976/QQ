@@ -247,6 +247,15 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 杭州影视,https://live3.hoolo.tv/hztv4/playlist.m3u8?auth_key=1721730076-0-0-4b720d26a7f27893818daa4b9767e809
 杭州青少,https://live3.hoolo.tv/hztv5/playlist.m3u8?auth_key=1721736673-0-0-8bc87ea9317480630a28f6f166f9cf83
 杭州导视,https://live3.hoolo.tv/hztv6/playlist.m3u8?auth_key=1721736720-0-0-a04fba4bbec8b2603c74407cdc14d6c4
+杭州导视,http://115.222.143.109:8808/rtp/233.50.201.182:5140
+杭州导视,http://122.246.150.139:9999/rtp/233.50.201.182:5140
+杭州导视,http://183.133.104.144:8899/rtp/233.50.201.182:5140
+杭州导视,http://218.71.48.251:9999/rtp/233.50.201.182:5140
+杭州导视,http://[2409:8087:280c:2020:200::35]/wh7f454c46tw530989886_575187028/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8?icpid=88888888&RTS=1717811355&from=9&hms_devid=511&online=1717811355&vqe=3
+杭州导视,http://sss918.synology.me:8000/rtp/233.50.201.182:5140
+杭州影视,http://[2409:8087:280c:2020:200::35]/wh7f454c46tw500288148_1584695720/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8?icpid=88888888&RTS=1717811325&from=9&ocs=2_2409:8087:280c:23::30_80&hms_devid=511&online=1717811325&vqe=3
+杭州生活,http://[2409:8087:280c:2020:200::32]/wh7f454c46tw487520893_1135117929/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8?icpid=88888888&RTS=1717811312&from=9&ocs=2_2409:8087:280c:23::20_80&hms_devid=516&online=1717811312&vqe=3
+杭州综合,http://[2409:8087:280c:2020:200::35]/wh7f454c46tw443798477_-346234054/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8?icpid=88888888&RTS=1717811268&from=9&hms_devid=511&online=1717811268&vqe=3
 
 
 杭州综合,https://live.hoolo.tv/hztv1/sd/live.m3u8?auth_key=1722752645-0-0-ef39d819d018788b0592dc519b7b2e5c
