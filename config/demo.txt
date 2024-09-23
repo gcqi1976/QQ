@@ -283,7 +283,7 @@ CCTV15,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv15
 山东教育卫视,http://120.77.28.4:8648/mgu.php?id=sdjy
 
 
-🔫｜浙江,#genre#
+浙江频道,#genre#
 杭州综合,http://rihou.cc:55/lib/aikan.php?id=hzzh
 杭州明珠,http://rihou.cc:55/lib/aikan.php?id=hzmz
 杭州生活,http://rihou.cc:55/lib/aikan.php?id=hzsh
@@ -407,7 +407,7 @@ CCTV15,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv15
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
-👓裸眼看3D[V4],#genre#
+裸眼看3D,#genre#
 变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
 变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
 变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
