@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-14 18:23:43,url
+2025-02-15 06:17:34,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -196,6 +196,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 广东卫视,http://36.129.204.117:9003//hls/49/index.m3u8$订阅源
 广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$订阅源
 广东卫视,http://119.32.12.32:2901/udp/224.1.100.96:11111$订阅源
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$订阅源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 浙江卫视,http://218.24.193.146:808/rtp/232.0.0.123:1234$组播源
@@ -459,29 +460,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8$订阅源
 
 ☘️浙江频道,#genre#
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8$订阅源
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8$订阅源
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
-浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
-浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8$订阅源
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?$订阅源
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$订阅源
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$订阅源
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?$订阅源
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8$订阅源
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$订阅源
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$订阅源
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 杭州综合,http://www.flyskyman.cn:4022/rtp/233.50.201.173:5140$组播源
 杭州综合,http://www.jeremyoto.com:82/rtp/233.50.201.173:5140$组播源
 杭州明珠,http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140$组播源
@@ -502,24 +480,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 宁波TV3,http://www.jeremyoto.com:82/rtp/233.50.201.179:5140$组播源
 宁波TV4,http://www.flyskyman.cn:4022/rtp/233.50.201.180:5140$组播源
 宁波TV4,http://www.jeremyoto.com:82/rtp/233.50.201.180:5140$组播源
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$订阅源
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
-浙江国际,https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
-浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
-浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
-浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8$订阅源
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8$订阅源
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed$订阅源
@@ -531,8 +491,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed$订阅源
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8$订阅源
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
-鄞州二套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8?zzhed$订阅源
-鄞州一套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed$订阅源
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed$订阅源
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
@@ -553,6 +511,17 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8$订阅源
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed$订阅源
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8$订阅源
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?$订阅源
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed$订阅源
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8$订阅源
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8$订阅源
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8$订阅源
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed$订阅源
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed$订阅源
+绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8$订阅源
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?$订阅源
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed$订阅源
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8$订阅源
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?$订阅源
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8$订阅源
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed$订阅源
@@ -573,7 +542,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8$订阅源
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?$订阅源
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8$订阅源
-数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8$订阅源
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed$订阅源
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8$订阅源
@@ -607,10 +575,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8$订阅源
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed$订阅源
-义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine$订阅源
-中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
-中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?$订阅源
-中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8$订阅源
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8$订阅源
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed$订阅源
@@ -643,10 +607,10 @@ NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index
 NewTV动作电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$订阅源-IPv6
 NewTV动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$订阅源-IPv6
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源-IPv6
+黑莓电影,http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$订阅源-IPv6
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8$订阅源-IPv6
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$订阅源-IPv6
-纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源
 经典电影,http://wouu.net:9977/udp/239.93.0.57:9024$订阅源
 经典电影,http://114.252.238.87:8000/udp/239.3.1.195:9024$订阅源
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193$组播源
@@ -659,24 +623,8 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
-天若有情,https://alimov2.a.kwimgs.com/upic/2023/07/08/21/BMjAyMzA3MDgyMTAyNTJfMzM5Njk4MTMyNl8xMDc0NjkwMDY4OThfMF8z_b_B0ea89c9392bf09bfff4afd532dc8cca9.mp4$订阅源
 
 🏛经典剧场,#genre#
-笑傲江湖,http://120.77.28.4:8648/yy.php?id=1354282410$订阅源
-天龙八部,http://120.77.28.4:8648/yy.php?id=1351814644$订阅源
-天龙八部,http://120.77.28.4:8648/yy.php?id=1382736855$订阅源
-天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=23903123$订阅源
-鹿鼎记,http://120.77.28.4:8648/yy.php?id=1382704650$订阅源
-鹿鼎记,http://120.77.28.4:8648/yy.php?id=28265277$订阅源
-仙剑奇侠传,http://120.77.28.4:8648/yy.php?id=1382749903$订阅源
-三国演义,http://120.77.28.4:8648/yy.php?id=1354936241$订阅源
-新白娘子传奇,http://120.77.28.4:8648/yy.php?id=1354930969$订阅源
-新白娘子传奇,http://120.77.28.4:8648/yy.php?id=1354490667$订阅源
-济公游记,http://120.77.28.4:8648/yy.php?id=1355265814$订阅源
-封神榜,http://120.77.28.4:8648/yy.php?id=1353426319$订阅源
-上海滩,http://120.77.28.4:8648/yy.php?id=1382745184$订阅源
-射雕英雄传,http://120.77.28.4:8648/yy.php?id=1354210357$订阅源
-天若有情,https://alimov2.a.kwimgs.com/upic/2023/07/08/21/BMjAyMzA3MDgyMTAyNTJfMzM5Njk4MTMyNl8xMDc0NjkwMDY4OThfMF8z_b_B0ea89c9392bf09bfff4afd532dc8cca9.mp4$订阅源
 
 🎥咪咕直播,#genre#
 咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$订阅源-IPv6
@@ -721,17 +669,13 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$订阅源-IPv6
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0$订阅源-IPv6
 金鹰卡通,http://wouu.net:9977/udp/239.93.0.108:5140$订阅源
+黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3$订阅源
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8$订阅源-IPv6
 黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源-IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$订阅源-IPv6
 炫动卡通,http://wouu.net:9977/udp/239.93.0.173:5140$订阅源
 炫动卡通,http://nas.hssvm.com:8888/udp/225.1.1.62:5002$订阅源
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
-猫和老鼠,http://120.77.28.4:8648/huya.php?id=11352879$订阅源
-蜡笔小新,http://120.77.28.4:8648/huya.php?id=11352970$订阅源
 
 🎮游戏频道,#genre#
 游戏风云,http://36.129.204.117:9003//hls/68/index.m3u8$订阅源
@@ -760,10 +704,6 @@ DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/162
 经典老歌DJ舞曲七首,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4$订阅源
 精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4$订阅源
 忘记你需要多久(DJ小鱼儿版),https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4$订阅源
-动感超人dj,https://vd3.bdstatic.com/mda-mm49pxqfvevcqbx4/sc/cae_h264/1638687905397245214/mda-mm49pxqfvevcqbx4.mp4$订阅源
-野花香dj,https://vd3.bdstatic.com/mda-mm68k5z0h1qjm8n0/sc/cae_h264/1638980550463660240/mda-mm68k5z0h1qjm8n0.mp4$订阅源
-精选dj,https://vd3.bdstatic.com/mda-mm68drt808w1nins/720p/h264/1638861890075163680/mda-mm68drt808w1nins.mp4$订阅源
-伤感情歌DJ,https://vd3.bdstatic.com/mda-mkv7idcnxrgc3cnd/sc/cae_h264/1638257251905732477/mda-mkv7idcnxrgc3cnd.mp4$订阅源
 爱情情歌dj网,https://vd2.bdstatic.com/mda-mkq4iax6ed1yimay/sc/cae_h264/1637837116068761026/mda-mkq4iax6ed1yimay.mp4$订阅源
 绝美情歌dj,https://vd2.bdstatic.com/mda-mkp952u577gbq8uc/sc/cae_h264/1637737197319948432/mda-mkp952u577gbq8uc.mp4$订阅源
 慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4$订阅源
